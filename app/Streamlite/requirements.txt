@@ -1,0 +1,11 @@
+streamlit
+requests
+matplotlib
+shap
+joblib
+pickle-mixin
+pandas
+numpy
+sklearn
+urllib3
+#json
