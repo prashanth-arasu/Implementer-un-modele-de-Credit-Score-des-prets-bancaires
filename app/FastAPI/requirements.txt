@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pickle-mixin
-pandas
-sklearn
-gunicorn==20.1.0
